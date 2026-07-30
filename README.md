@@ -58,3 +58,8 @@ Used-Cars-SQL-Analysis-Project/
 ├── used_cars_analysis.sql
 ├── README.md
 └── screenshots/
+ ## Project Files
+
+- `used_cars_analysis.sql` — Contains all SQL analysis queries.
+- `README.md` — Project documentation.
+- Analysis screenshots — Query results and outputs.
