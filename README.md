@@ -62,4 +62,16 @@ Used-Cars-SQL-Analysis-Project/
 
 - `used_cars_analysis.sql` — Contains all SQL analysis queries.
 - `README.md` — Project documentation.
-- Analysis screenshots — Query results and outputs.
+- `01_total_cars_by_brand.png` — Total cars by brand.
+- `02_average_price_by_brand.png` — Average price by brand.
+- `03_most_common_car_models.png` — Most common car models.
+- `04_fuel_type_analysis.png` — Fuel type analysis.
+- `05_transmission_analysis.png` — Transmission analysis.
+- `06_car_condition_analysis.png` — Car condition analysis.
+- `07_top_10_most_expensive_cars.png` — Top 10 most expensive cars.
+- `08_average_price_by_year.png` — Average price by year.
+
+## Author
+
+Jana Mahmoud  
+Computer Science Student – Artificial Intelligence Track
